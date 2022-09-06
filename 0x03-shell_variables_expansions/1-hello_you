@@ -1,2 +1,2 @@
 #!/bin/bash
-hello_you ls="rm *"
+echo "hello $USER"
